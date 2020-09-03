@@ -2,9 +2,7 @@
 
 17 year old programmer looking to code more. Currently proficient in Node.js.
 
-Active Project: [Penny University Private Chats](https://github.com/penny-university/penny_university/pull/322)
-
-- 🔭 I’m currently working on :angel: [Archangel](https://github.com/archangeldevs/archangel).
+- 🔭 I'm currently working on: lightening the load of projects. Open Source: ⚔ [Horace](https://github.com/knights-of-academia/horace).
 - 🌱 I’m currently learning :snake: Python, :train: Ruby on Rails, and :computer: C.
 - 👯 I’m looking to collaborate on 🕸 web development projects.
 - 🤔 I’m looking for help with :angel: [Archangel](https://github.com/archangeldevs/archangel) and ⚔ [Horace](https://github.com/knights-of-academia/horace).
