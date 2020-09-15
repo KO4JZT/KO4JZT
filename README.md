@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-17 year old programmer looking to code more. Currently proficient in Node.js.
+🎓 17 year old hobbiest programmer looking to make more.
 
-- 🔭 I'm currently working on: lightening the load of projects. Open Source: ⚔ [Horace](https://github.com/knights-of-academia/horace).
-- 🌱 I’m currently learning :snake: Python, :train: Ruby on Rails, and :computer: C.
-- 👯 I’m looking to collaborate on 🕸 web development projects.
-- 🤔 I’m looking for help with :angel: [Archangel](https://github.com/archangeldevs/archangel) and ⚔ [Horace](https://github.com/knights-of-academia/horace).
-- 💬 Ask me about ⚔ [KOA](https://knightsofacademia.org), 🕸 web development, or :books: learning!
-- 📫 How to reach me: 
-  - @colin#3523 on Discord
-  - @bigboybender on Twitter
-- 😄 Pronouns: :man: he/him
+💻 I work with Jekyll, Node, HTML/CSS, Wordpress, and a few other frameworks. Currently splitting my time between learning React Native, Python, and Ruby on Rails.
+
+📝 Current Projects: [Horace](https://github.com/knights-of-academia/horace), [Archangel](https://github.com/archangeldevs/archangel), and Project E.
+
+🏭 I also work as the Head of Engineering @ [KOA](https://knightsofacademia.org) and as a Product Manager @ [Camelot](https://camelot.fm)
+
+🕸 I'm open to helping with the occasional web development project. Shoot me an email at (my first name) at cpdev dot me.
