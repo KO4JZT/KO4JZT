@@ -9,3 +9,7 @@
 🏭 I currently work @ [Camelot](https://camelot.fm) (Product Manager) and @ [KOA](https://knightsofacademia.org) (Head of Engineering). 
 
 Check out my [portfolio](https://deadbender.github.io) and blogs (coming soon). Shoot me an email at (my first name) at cpdev dot me to share knowledge or chat about potential weekend-long web development projects.
+
+Things I 💚 - [Gitmoji](https://github.com/carloscuesta/gitmoji) / [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
+
+Credit to [Open Peeps](https://www.openpeeps.com/) for the character design
