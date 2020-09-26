@@ -1,11 +1,11 @@
 ![banner](banner.png)
 
-🎓 17 year old hobbiest programmer looking to make more.
+🎓 17 year old hobbiest programmer looking to make more code and learn more.
 
-💻 I work with Jekyll, Node, HTML/CSS, Wordpress, and a few other frameworks. Currently splitting my time between learning React Native, Python, and Ruby on Rails.
+💻 I know: Node.js, HTML, CSS. I am learning: Python, React Native.
 
-📝 Current Projects: [Horace](https://github.com/knights-of-academia/horace), [Archangel](https://github.com/archangeldevs/archangel), and Project E.
+📝 I love working on projects such as social networking apps, [Horace](https://github.com/knights-of-academia/horace), and [Penny University](https://github.com/penny-university/penny_university). 
 
-🏭 I also work as the Head of Engineering @ [KOA](https://knightsofacademia.org) and as a Product Manager @ [Camelot](https://camelot.fm)
+🏭 I currently work @ [Camelot](https://camelot.fm) (Product Manager) and @ [KOA](https://knightsofacademia.org) (Head of Engineering). 
 
-🕸 I'm open to helping with the occasional web development project. Shoot me an email at (my first name) at cpdev dot me.
+Check out my [portfolio](https://deadbender.github.io) and blogs (coming soon). Shoot me an email at (my first name) at cpdev dot me to share knowledge or chat about potential weekend-long web development projects.
