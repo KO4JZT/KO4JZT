@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner](banner.png)
 
 🎓 17 year old hobbiest programmer looking to make more.
 
