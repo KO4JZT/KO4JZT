@@ -10,6 +10,6 @@
 
 #### Things I 💚 - [Gitmoji](https://github.com/carloscuesta/gitmoji) / [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
 
-Check out my [portfolio](https://deadbender.github.io) and blogs (coming soon). Shoot me an email at (my first name) at cpdev dot me to share knowledge or chat about potential weekend-long web development projects.
+**Check out my [portfolio](https://deadbender.github.io) and blogs (coming soon). Shoot me an email at (my first name) at cpdev dot me to share knowledge or chat about potential weekend-long web development projects.**
 
 *Credit to [Open Peeps](https://www.openpeeps.com/) for the character design*
