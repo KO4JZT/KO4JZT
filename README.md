@@ -4,7 +4,7 @@
 
 #### 💻 I know: Node.js, HTML, CSS. I am learning: Python, React Native.
 
-#### 📝 I love working on projects such as social networking apps, [Horace](https://github.com/knights-of-academia/horace), and [Penny University](https://github.com/penny-university/penny_university). 
+#### 📝 I love working on projects such as social networking apps, [Horace](https://github.com/knights-of-academia/horace), and [Penny University](https://github.com/penny-university/penny_university). I'd love to collaborate on programs related to finance or music!
 
 #### 🏭 I currently work @ [Camelot](https://camelot.fm) (Product Manager) and @ [KOA](https://knightsofacademia.org) (Head of Engineering). 
 
