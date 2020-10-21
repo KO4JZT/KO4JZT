@@ -2,7 +2,10 @@
 
 ### 🎓 17 year old hobbiest programmer looking to make more code and learn more.
 
-#### 💻 I know: Node.js, HTML, CSS. I am learning: Python, React Native.
+#### 💻 I work with Node.js, React, Python.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #### 📝 I love working on projects such as [Horace](https://github.com/knights-of-academia/horace), [Penny University](https://github.com/penny-university/penny_university), etc. I'd love to collaborate on programs related to finance or music!
 
