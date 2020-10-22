@@ -8,6 +8,8 @@
 
 #### 🏭 I currently work @ [Camelot](https://camelot.fm) (Product Manager) and @ [KOA](https://knightsofacademia.org) (Head of Engineering). 
 
+#### 📚 I am currently learning about JAMStack and back-end (NestJS, Postgres, TypeORM, Express, MongoDB).
+
 #### Things I 💚 - [Gitmoji](https://github.com/carloscuesta/gitmoji) / [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw) / [reveal-md](https://github.com/webpro/reveal-md#custom-scripts)
 
 **Check out my [portfolio](https://deadbender.github.io) and blogs (coming soon). Shoot me an email at (my first name) at cpdev dot me to share knowledge or chat about potential weekend-long web development projects.**
