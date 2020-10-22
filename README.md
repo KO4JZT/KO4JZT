@@ -21,7 +21,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 October, 2020 - 20 October, 2020
+Week: 14 October, 2020 - 21 October, 2020
 
 TypeScript   6 hrs 30 mins   ██████████████▓░░░░░░░░░░   58.29 % 
 YAML         1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 % 
