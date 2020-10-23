@@ -6,7 +6,7 @@
 
 #### 📝 I love working on projects such as [Horace](https://github.com/knights-of-academia/horace), [Penny University](https://github.com/penny-university/penny_university), etc. I'd love to collaborate on programs related to finance or music!
 
-#### 🏭 I currently work @ [Camelot](https://camelot.fm) (Product Manager) and @ [KOA](https://knightsofacademia.org) (Head of Engineering). 
+#### 🏭 I currently work @ [Camelot](https://camelot.fm) (Product Manager + Back-End Engineer) and @ [KOA](https://knightsofacademia.org) (Head of Engineering). 
 
 #### 📚 I am currently learning about JAMStack and back-end (NestJS, Postgres, TypeORM, Express, MongoDB).
 
