@@ -24,13 +24,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 October, 2020 - 27 October, 2020
+Week: 21 October, 2020 - 28 October, 2020
 
-TypeScript   9 hrs 1 min     ████████████████░░░░░░░░░   64.13 % 
-JavaScript   2 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-JSON         58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Other        41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Markdown     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+TypeScript   8 hrs 3 mins    ████████████████░░░░░░░░░   64.16 % 
+JavaScript   2 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+JSON         43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Other        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Markdown     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 ```
 <!--END_SECTION:waka-->
 
