@@ -24,13 +24,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2020 - 04 November, 2020
+Week: 29 October, 2020 - 05 November, 2020
 
-JavaScript   3 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   33.90 % 
-TypeScript   3 hrs 12 mins   ████████▒░░░░░░░░░░░░░░░░   32.91 % 
-Other        37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Docker       34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-YAML         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+TypeScript   4 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.30 % 
+JavaScript   3 hrs 18 mins   ███████▓░░░░░░░░░░░░░░░░░   31.21 % 
+Other        36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+YAML         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Docker       34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 <!--END_SECTION:waka-->
 
