@@ -24,13 +24,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2020 - 11 November, 2020
+Week: 05 November, 2020 - 12 November, 2020
 
-TypeScript   2 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.36 % 
-Pug          2 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.63 % 
-Sass         1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-JavaScript   46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-YAML         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Pug          2 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   32.32 % 
+TypeScript   1 hr 40 mins    ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+Sass         1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+JavaScript   46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Text         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 ```
 <!--END_SECTION:waka-->
 
