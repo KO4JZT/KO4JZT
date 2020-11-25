@@ -24,7 +24,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 November, 2020 - 23 November, 2020
+Week: 17 November, 2020 - 24 November, 2020
 
 Pug          3 hrs 30 mins   ████████████░░░░░░░░░░░░░   48.36 % 
 TypeScript   1 hr 15 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.41 % 
