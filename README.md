@@ -24,7 +24,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2020 - 24 December, 2020
+Week: 18 December, 2020 - 25 December, 2020
 
 JavaScript   16 mins         ████████░░░░░░░░░░░░░░░░░   31.82 % 
 Git Config   9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.52 % 
