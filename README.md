@@ -24,10 +24,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2020 - 31 December, 2020
+Week: 25 December, 2020 - 01 January, 2021
 
-TypeScript   7 mins          █████████████▓░░░░░░░░░░░   54.00 % 
-Bash         6 mins          ███████████░░░░░░░░░░░░░░   43.83 % 
+Bash         22 mins         ███████████░░░░░░░░░░░░░░   43.59 % 
+TypeScript   14 mins         ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+Markdown     12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 <!--END_SECTION:waka-->
 
