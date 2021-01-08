@@ -22,7 +22,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2020 - 06 January, 2021
+Week: 31 December, 2020 - 07 January, 2021
 
 JavaScript   2 hrs 17 mins   █████████████░░░░░░░░░░░░   52.25 % 
 YAML         49 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.73 % 
