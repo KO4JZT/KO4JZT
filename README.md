@@ -8,7 +8,7 @@
 
 #### 📚 I am currently learning about JAMStack and back-end (NestJS, Postgres, TypeORM, Express, MongoDB). 
 
-**Check out my [portfolio](https://deadbender.github.io) and blogs (coming soon). Shoot me an email at (my first name) at cpdev dot me to share knowledge or chat about potential weekend-long web development projects.**
+**Check out my [portfolio](https://cpdev.me) and blogs (coming soon). Shoot me an email at (my first name) at cpdev dot me to share knowledge or chat about potential weekend-long web development projects.**
 
 
 
