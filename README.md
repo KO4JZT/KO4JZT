@@ -2,7 +2,7 @@
 
 ### 🎓 17 year old hobbiest programmer looking to make more code and learn more.
 
-<a href="https://twitter.com/bigboybender"><img src="https://img.shields.io/badge/bigboybender%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/KO4JZT"><img src="https://img.shields.io/badge/ko4jzt%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 #### 📝 I love working on projects such as [Horace](https://github.com/knights-of-academia/horace), [Penny University](https://github.com/penny-university/penny_university), etc. I'd love to collaborate on programs related to finance or music!
 
