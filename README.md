@@ -14,12 +14,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2021 - 10 February, 2021
+Week: 04 February, 2021 - 11 February, 2021
 
-JavaScript   4 hrs 8 mins    ███████████████████████░░   92.01 % 
-Twig         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-CSV          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+JavaScript   3 hrs 11 mins   ██████████████████████▓░░   90.24 % 
+Twig         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+CSV          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 <!--END_SECTION:waka-->
 
