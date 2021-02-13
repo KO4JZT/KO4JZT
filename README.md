@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2021 - 11 February, 2021
+Week: 05 February, 2021 - 12 February, 2021
 
 JavaScript   3 hrs 11 mins   ██████████████████████▓░░   90.24 % 
 Twig         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
