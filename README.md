@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2021 - 18 February, 2021
+Week: 12 February, 2021 - 19 February, 2021
 
 Text         1 hr 50 mins    ████████▒░░░░░░░░░░░░░░░░   32.81 % 
 Twig         1 hr 39 mins    ███████▒░░░░░░░░░░░░░░░░░   29.73 % 
