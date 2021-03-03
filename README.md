@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 February, 2021 - 01 March, 2021
+Week: 23 February, 2021 - 02 March, 2021
 
 Twig         37 mins         ██████████████▓░░░░░░░░░░   58.47 % 
 Markdown     8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 % 
