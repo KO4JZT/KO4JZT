@@ -14,13 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 February, 2021 - 02 March, 2021
+Week: 24 February, 2021 - 03 March, 2021
 
-Twig         37 mins         ██████████████▓░░░░░░░░░░   58.47 % 
-Markdown     8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-SCSS         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-YAML         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Git Config   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+YAML   3 mins          ██████████████████▓░░░░░░   75.22 % 
+HTML   1 min           ██████▒░░░░░░░░░░░░░░░░░░   24.78 % 
 ```
 <!--END_SECTION:waka-->
 
