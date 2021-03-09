@@ -14,10 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 February, 2021 - 07 March, 2021
-
-YAML   3 mins          ██████████████████▓░░░░░░   75.22 % 
-HTML   1 min           ██████▒░░░░░░░░░░░░░░░░░░   24.78 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
