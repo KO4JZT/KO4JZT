@@ -14,9 +14,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 March, 2021 - 09 March, 2021
+Week: 03 March, 2021 - 10 March, 2021
 
-Twig   21 mins         █████████████████████████   100.00 % 
+Twig   52 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
