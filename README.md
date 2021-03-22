@@ -13,10 +13,7 @@ Take a look at what I've been working in this week!
 ```text
 Week: 14 March, 2021 - 21 March, 2021
 
-Markdown   4 hrs 20 mins   ██████████████████████▒░░   89.33 % 
-HTML       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-SCSS       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Markdown     4 hrs 23 mins   ████████████████████████░   95.66 % 
+JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 ```
 <!--END_SECTION:waka-->
