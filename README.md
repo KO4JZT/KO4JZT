@@ -11,11 +11,11 @@ Take a look at what I've been working in this week!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 March, 2021 - 29 March, 2021
+Week: 23 March, 2021 - 30 March, 2021
 
-ERB        35 mins         ████████████░░░░░░░░░░░░░   47.87 % 
-Ruby       20 mins         ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Markdown   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 % 
-SCSS       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+ERB        35 mins         ██████████████▒░░░░░░░░░░   56.78 % 
+Ruby       20 mins         ████████▒░░░░░░░░░░░░░░░░   33.00 % 
+SCSS       4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 <!--END_SECTION:waka-->
