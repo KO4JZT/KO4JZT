@@ -11,11 +11,11 @@ Take a look at what I've been working in this week!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 April, 2021 - 12 April, 2021
+Week: 06 April, 2021 - 13 April, 2021
 
-Markdown     7 hrs 45 mins   ███████████████████████▓░   94.16 % 
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Markdown     7 hrs 48 mins   ███████████████████████▓░   94.11 % 
+JSON         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 <!--END_SECTION:waka-->
