@@ -11,12 +11,12 @@ Take a look at what I've been working in this week!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 April, 2021 - 18 April, 2021
+Week: 12 April, 2021 - 19 April, 2021
 
-Markdown   1 hr 30 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.98 % 
-HTML       1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Other      51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-CSS        45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Liquid     31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Markdown   1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+HTML       1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+ERB        1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Other      52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+CSS        45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 <!--END_SECTION:waka-->
