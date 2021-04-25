@@ -11,12 +11,11 @@ Take a look at what I've been working in this week!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 April, 2021 - 23 April, 2021
+Week: 17 April, 2021 - 24 April, 2021
 
-ERB          1 hr 2 mins     ████████████▓░░░░░░░░░░░░   50.37 % 
-JavaScript   23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Ruby         16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-CSV          8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Git Config   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+ERB          34 mins         █████████████▒░░░░░░░░░░░   53.05 % 
+JavaScript   11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Ruby         9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+CSV          8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 ```
 <!--END_SECTION:waka-->
