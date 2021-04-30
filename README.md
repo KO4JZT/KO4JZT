@@ -11,10 +11,11 @@ Take a look at what I've been working in this week!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 April, 2021 - 28 April, 2021
+Week: 22 April, 2021 - 29 April, 2021
 
-JavaScript   11 mins         ████████████░░░░░░░░░░░░░   47.64 % 
-CSV          8 mins          ████████▒░░░░░░░░░░░░░░░░   33.18 % 
-Markdown     4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Markdown     1 hr 3 mins     ██████████████████▓░░░░░░   74.48 % 
+JavaScript   11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+CSV          8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 <!--END_SECTION:waka-->
