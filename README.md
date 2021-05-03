@@ -11,7 +11,7 @@ Take a look at what I've been working in this week!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 April, 2021 - 01 May, 2021
+Week: 25 April, 2021 - 02 May, 2021
 
 Markdown     1 hr 37 mins    ██████████████████████▓░░   90.08 % 
 CSV          7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
