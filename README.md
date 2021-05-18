@@ -11,8 +11,6 @@ Take a look at what I've been working in this week!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 May, 2021 - 16 May, 2021
-
-Markdown   13 mins         ████████████████████████▓   98.84 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
