@@ -11,7 +11,7 @@ Take a look at what I've been working in this week!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 May, 2021 - 31 May, 2021
+Week: 25 May, 2021 - 01 June, 2021
 
 HTML   23 mins         █████████████████████████   100.00 % 
 ```
